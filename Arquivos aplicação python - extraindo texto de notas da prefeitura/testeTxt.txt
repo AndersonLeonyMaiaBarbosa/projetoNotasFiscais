@@ -1,0 +1,37 @@
+                                              PREFEITURA MUNICIPAL DE FORTALEZA                                                                                      Número da
+                                              SECRETARIA MUNICIPAL DAS FINANÇAS                                                                                          NFS-e
+                                     NOTA FISCAL ELETRÔNICA DE SERVIÇO - NFS-e                                                                                           912799
+   Data e Hora da Emissão             05/07/2017 09:24:57                      Competência                         06/2017               Código de Verificação           689595747
+       Número do RPS                          925991                     No. NFS-e substituída                                             Local da Prestação        FORTALEZA - CE
+                                                      DADOS DO PRESTADOR DE SERVIÇOS
+                            Razão Social/Nome FUNDACAO EDSON QUEIROZ
+                               Nome Fantasia
+                             CPF/CNPJ 07.373.434/0001-86                                  Insc Municipal              033.941-5          Município FORTALEZA - CE
+                            Endereço e CEP               AV WASHINGTON SOARES,1321 - EDSON QUEIROZ CEP:60.811-341
+                              Complemento                                                        Telefone (85)3477-3000                     E-mail emissaonfe@unifor.br
+                                                        DADOS DO TOMADOR DE SERVIÇOS
+   Razão Social/Nome            ANDERSON LEONY MAIA BARBOSA
+  CPF/CNPJ 033.003.603-31                           Inscrição Municipal                                                 Município FORTALEZA - CE
+  Endereço e CEP      R PE PEDRO DE ALENCAR, 31 - MESSEJANA CEP: 60.840-280
+   Complemento       BLOCO 08 - APTO 203                             Telefone (30)1349-25                        E-mail leony_maia@hotmail.com
+                                                             DISCRIMINAÇÃO DOS SERVIÇOS
+Referente à mensalidade do aluno Anderson Leony Maia Barbosa, matrícula 1420443/1 no curso de Ciência Da Computação( Graduação )
+                                                                CÓDIGO DE ATIVIDADE CNAE
+8.01 / 853250001 - EDUCAÇÃO SUPERIOR - GRADUAÇÃO E PÓS-GRADUAÇÃO
+                                      DETALHAMENTO ESPECÍFICO DA CONSTRUÇÃO CIVIL
+    Código da Obra                                                                          Código ART
+                                                                          TRIBUTOS FEDERAIS
+      PIS       0,00                   COFINS            0,00                     IR(R$)              0,00                   INSS(R$)           0,00              CSLL(R$)      0,00
+       Detalhamento de Valores - Prestador dos Serviços                                                                   Cálculo do ISSQN devido no Município
+Valor dos Serviços R$                          699,30                        Natureza Operação                        Valor dos Serviços R$                                 699,30
+(-) Desconto Incondicionado                     0,00                                  4-Imune                         (-) Deduções Permitidas em Lei                         0,00
+(-) Desconto Condicionado                       0,00                    Regime especial Tributação                    (-) Desconto Incondicionado                            0,00
+(-) Retenções Federais                          0,00                                 0-Nenhum                         Base de Cálculo                                       699,30
+Outras Retenções                                0,00                      Opção Simples Nacional                      (X) Alíquota %                                         2,00
+(-) ISS Retido                                  0,00                                   2 - Não                        ISS a reter                                      ( ) Sim (X) Não
+                                                                           Incentivador Cultural
+(=) Valor Líquido    R$                        699,30                                                                 (=) Valor do ISS R$                                    0,00
+                                                                                       2 - Não
+                     1- Uma via desta Nota Fiscal será enviada através do e-mail fornecido pelo Tomador dos Serviços, no sítio http://iss.fortaleza.ce.gov.br
+                     2- A autenticidade desta Nota Fiscal poderá ser validada no site http://iss.fortaleza.ce.gov.br/, com a utilização do Código de Verificação.
+       Avisos

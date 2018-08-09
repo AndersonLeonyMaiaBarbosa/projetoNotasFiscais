@@ -1,0 +1,39 @@
+                                              PREFEITURA MUNICIPAL DE FORTALEZA                                                                                      Número da
+                                              SECRETARIA MUNICIPAL DAS FINANÇAS                                                                                          NFS-e
+                                      NOTA FISCAL ELETRÔNICA DE SERVIÇO - NFS-e                                                                                            8756
+   Data e Hora da Emissão              04/07/2018 16:54:01                     Competência                         07/2018               Código de Verificação           359138007
+       Número do RPS                            8756                     No. NFS-e substituída                                             Local da Prestação        FORTALEZA - CE
+                                                      DADOS DO PRESTADOR DE SERVIÇOS
+                            Razão Social/Nome G4 FLEX COMERCIO E SERVICOS DE INFORMATICA LTDA - ME
+                               Nome Fantasia                G4 FLEX
+                             CPF/CNPJ 09.618.107/0001-72                                  Insc Municipal              234.565-0          Município FORTALEZA - CE
+                            Endereço e CEP               AV CEL MIGUEL DIAS,50 - GUARARAPES CEP:60.810-160
+                              Complemento               SL401                                    Telefone (85)3033-1777                     E-mail faturamento@g4flex.com.br
+                                                        DADOS DO TOMADOR DE SERVIÇOS
+   Razão Social/Nome            PAULO ROBERTO RAMOS PEREIRA
+  CPF/CNPJ 033.529.923-71                           Inscrição Municipal                                                 Município FORTALEZA - CE
+  Endereço e CEP      RUA DR GILBERTO STUDART, 3055 - MANOEL DIAS BRANCO CEP: 60.191-365
+   Complemento       CASA 03                                         Telefone 85996127037                        E-mail dev.paulo.pereira@gmail.com
+                                                             DISCRIMINAÇÃO DOS SERVIÇOS
+1 VOIP. CONSUMO TELEFONIA IP NA NUVEM PARA
+0800. 5.031,94
+                                                                CÓDIGO DE ATIVIDADE CNAE
+1.07 / 620910001 - SUPORTE TÉCNICO, MANUTENÇÃO E OUTROS SERVIÇOS EM TECNOLOGIA DA INFORMAÇÃO
+                                      DETALHAMENTO ESPECÍFICO DA CONSTRUÇÃO CIVIL
+    Código da Obra                                                                          Código ART
+                                                                          TRIBUTOS FEDERAIS
+      PIS       0,00                    COFINS           0,00                     IR(R$)              0,00                   INSS(R$)           0,00              CSLL(R$)      0,00
+       Detalhamento de Valores - Prestador dos Serviços                                                                   Cálculo do ISSQN devido no Município
+Valor dos Serviços R$                         5.031,94                       Natureza Operação                        Valor dos Serviços R$                                5.031,94
+(-) Desconto Incondicionado                                                1-Tributação no Município                  (-) Deduções Permitidas em Lei                         0,00
+(-) Desconto Condicionado                                               Regime especial Tributação                    (-) Desconto Incondicionado
+(-) Retenções Federais                          0,00                   6-Microempresário e Empresa de                 Base de Cálculo                                      5.031,94
+Outras Retenções                                                          Opção Simples Nacional                      (X) Alíquota %                                         5,00
+(-) ISS Retido                                  0,00                                   1 - Sim                        ISS a reter                                      ( ) Sim (X) Não
+                                                                           Incentivador Cultural
+(=) Valor Líquido    R$                      5.031,94                                                                 (=) Valor do ISS R$                                   251,60
+                                                                                       2 - Não
+                     1- Uma via desta Nota Fiscal será enviada através do e-mail fornecido pelo Tomador dos Serviços, no sítio http://iss.fortaleza.ce.gov.br
+                     2- A autenticidade desta Nota Fiscal poderá ser validada no site http://iss.fortaleza.ce.gov.br/, com a utilização do Código de Verificação.
+                     3- Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a crédito fiscal de ISS e IPI.
+       Avisos        4- Serviço sujeito ao ANEXO 3.
